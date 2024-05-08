@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HW1_geekbrains_android </string>
+    <string name="reset">СБРОС</string>
+    <string name="all_seats_available">Все места свободны</string>
+    <string name="number_of_available_seats">Осталось свободных мест:  </string>
+    <string name="too_much_passengers">Пассажиров слишком много! </string>
+
+</resources>
